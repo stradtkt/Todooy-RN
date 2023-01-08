@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Questrial-Regular.ttf",
+      "sha1": "6f9756a98f1a5f3a0ce0611b4176f0dfa6fe2d0d"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-Bold.ttf",
+      "sha1": "d8d762c0a9e273654fab122324823e1baabf2391"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-Light.ttf",
+      "sha1": "83a457f35ee14ba2852fe10fad26f6f70c261a28"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-Medium.ttf",
+      "sha1": "7f836af862203db19a947f0c95eddff18b547d23"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-Regular.ttf",
+      "sha1": "4b98acde404de03a16cbf770ae39e4af16a9db87"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-SemiBold.ttf",
+      "sha1": "f14117c5b875ae18ab618d408355fbb570deebb7"
+    }
+  ]
+}
