@@ -19,6 +19,7 @@ function Input({
         keyboardType={keyboardType}
         secureTextEntry={secure}
         onChangeText={onUpdateValue}
+        autoCapitalize={'none'}
         value={value}
       />
     </View>
